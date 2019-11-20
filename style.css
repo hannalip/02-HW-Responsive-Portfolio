@@ -1,0 +1,20 @@
+/* html {
+    background-color: lightgrey;
+} */
+
+.whitebackground {
+    background: #ffffff;
+    color: #777777;
+    border: 1px solid #dddddd;
+    padding: 10px
+}
+
+#tab-image img {
+    width: 300px;
+    height: 200px;
+}
+
+.butterfly {
+    width: 250px;
+    height: 200px;
+}
